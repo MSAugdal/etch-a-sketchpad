@@ -49,8 +49,7 @@ body {
 	background-color: hsl(0, 0%, 86%);
 	transition: background-color 1s ease;
 }
-#grid-container div:hover {
-	/* color trail */
+/* #grid-container div:hover {
 	background-color: hsla(300, 100%, 25%, 0.482);
 	transition: background-color 0.1s ease;
-}
+} */
